@@ -1,0 +1,7 @@
+com/ilya/ThymeleafdemoApplication.class
+com/ilya/service/EmployeeServiceImpl.class
+com/ilya/entity/Employee.class
+com/ilya/controller/EmployeeController.class
+com/ilya/dao/EmployeeRepository.class
+com/ilya/aspect/LoggingAspect.class
+com/ilya/service/EmployeeService.class

@@ -1,0 +1,7 @@
+/home/ilya/programming/java/spring-course/10-spring-boot-aop/03-spring-boot-mvc-crud-demo-employees/spring-boot-mvc-crud-demo-employees/src/main/java/com/ilya/service/EmployeeService.java
+/home/ilya/programming/java/spring-course/10-spring-boot-aop/03-spring-boot-mvc-crud-demo-employees/spring-boot-mvc-crud-demo-employees/src/main/java/com/ilya/aspect/LoggingAspect.java
+/home/ilya/programming/java/spring-course/10-spring-boot-aop/03-spring-boot-mvc-crud-demo-employees/spring-boot-mvc-crud-demo-employees/src/main/java/com/ilya/service/EmployeeServiceImpl.java
+/home/ilya/programming/java/spring-course/10-spring-boot-aop/03-spring-boot-mvc-crud-demo-employees/spring-boot-mvc-crud-demo-employees/src/main/java/com/ilya/controller/EmployeeController.java
+/home/ilya/programming/java/spring-course/10-spring-boot-aop/03-spring-boot-mvc-crud-demo-employees/spring-boot-mvc-crud-demo-employees/src/main/java/com/ilya/entity/Employee.java
+/home/ilya/programming/java/spring-course/10-spring-boot-aop/03-spring-boot-mvc-crud-demo-employees/spring-boot-mvc-crud-demo-employees/src/main/java/com/ilya/dao/EmployeeRepository.java
+/home/ilya/programming/java/spring-course/10-spring-boot-aop/03-spring-boot-mvc-crud-demo-employees/spring-boot-mvc-crud-demo-employees/src/main/java/com/ilya/ThymeleafdemoApplication.java
